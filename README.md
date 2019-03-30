@@ -1,4 +1,4 @@
-# React_cheatsheat
+# React vscode cheatsheat
 ## Plugin : React-Native/React/Redux snippets for es6/es7
 
 |  Prefix | Method                                              |
