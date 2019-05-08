@@ -28,7 +28,7 @@
 |   `cp→` | `const { } = this.props`                            |
 |   `cs→` | `const { } = this.state`                            |
 
-React sjdkhsjh
+React 
 
 |      Prefix | Method                                                                              |
 | ----------: | ----------------------------------------------------------------------------------- |
